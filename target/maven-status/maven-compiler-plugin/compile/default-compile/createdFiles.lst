@@ -1,0 +1,10 @@
+co/edu/usa/adf/Entidades/Funcion.class
+co/edu/usa/adf/Entidades/Silla.class
+co/edu/usa/adf/Dao/PeliculaDAO.class
+co/edu/usa/adf/Entidades/Adminsala.class
+co/edu/usa/adf/Dao/AbstractJpaDAO.class
+co/edu/usa/adf/CineJPA/MyUI$MyUIServlet.class
+co/edu/usa/adf/Entidades/Sala.class
+co/edu/usa/adf/CineJPA/MyUI.class
+co/edu/usa/adf/Entidades/Pelicula.class
+co/edu/usa/adf/Entidades/Ticket.class
